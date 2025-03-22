@@ -18,12 +18,15 @@ E-mail: vitorcgmss@outlook.com
 
 <img align="right" alt="" height="190px" src="/src/foto.png">
 
+<br>
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:vitorcgmss@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/vitorcgms/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vittxw/)
 
+<br>
 
 <div style="text-align: center;" align="center">
   <h3>* Status Github *</h3>
@@ -34,6 +37,8 @@ E-mail: vitorcgmss@outlook.com
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorcgo&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=FF0000&border_radius=3&border_color=561760&count_private=true" alt="Linguagens XP+">
   </a>
 </div>
+
+<br>
 
 
 
