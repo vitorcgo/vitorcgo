@@ -12,7 +12,7 @@
 
 🌟 Design e Prototipagem: Figma, AdobeXD e WordPress
 
-<div>
+<div align="center">
 
 <h3 align="center">Entre em contato!</h3>
 
