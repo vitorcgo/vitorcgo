@@ -12,16 +12,6 @@
 
 🌟 Design e Prototipagem: Figma, AdobeXD e WordPress
 
-📞 Contato:
-E-mail: vitorcgmss@outlook.com
-
-
-<br>
-
-<img align="right" alt="" height="400px" src="/src/foto.png">
-
-
-<br>
 <div>
 
 <h3 align="left">Entre em contato!</h3>
@@ -30,6 +20,10 @@ E-mail: vitorcgmss@outlook.com
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/vitorcgms/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/vittxw/)
 </div>
+
+
+<br>
+<img align="right" alt="" height="400px" src="/src/foto.png">
 <br>
 
 <div style="text-align: center;" align="center">
