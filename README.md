@@ -17,13 +17,11 @@ E-mail: vitorcgmss@outlook.com
 
 
 <br>
-<br>
 
-<img align="right" alt="" height="500px" src="/src/foto.png">
+<img align="right" alt="" height="300px" src="/src/foto.png">
+
 
 <br>
-<br>
-
 <div>
 <h3 align="left">Connect with me!</h3>
 
