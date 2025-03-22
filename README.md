@@ -23,12 +23,12 @@
 
 
 <br>
-<div align="center">
-<img align="center" alt="" height="400px" src="/src/foto.png">
+<div align="right">
+<img align="center" alt="" height="200px" src="/src/foto.png">
 </div>
 <br>
 
-<div style="text-align: center;" align="center">
+<div style="text-align: left;" align="left">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorcgo&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF0000&theme=jolly" alt="GitHub Stats">
 
   <a href="https://github.com/vitorcgo/github-readme-stats">
