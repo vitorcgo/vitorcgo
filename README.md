@@ -23,7 +23,7 @@
 
 
 <br>
-<img align="right" alt="" height="400px" src="/src/foto.png">
+<img align="center" alt="" height="400px" src="/src/foto.png">
 <br>
 
 <div style="text-align: center;" align="center">
