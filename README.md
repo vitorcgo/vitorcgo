@@ -5,10 +5,12 @@
 🌟 Habilidades Técnicas:
 
 Desenvolvimento Web: HTML, CSS, JavaScript, Sass, TailwindCSS, DaisyUI, Bootstrap, jQuery, React, Ajax, Vue e TypeScript.
+
 Controle de Versão: Git/Github.
+
 Backend: Node.js, PHP, SQL, Next.js
+
 Design e Prototipagem: Figma, AdobeXD e WordPress
-Outros: Python.
 
 📞 Contato:
 E-mail: vitorcgmss@outlook.com
