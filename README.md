@@ -9,7 +9,7 @@
  Minhas áreas de atuação incluem desenvolvimento web (front e back-end integrados a APIs), design digital, projetos freelance de design e programação.
 
 💡 Habilidades Técnicas:<br>
-🌟 Desenvolvimento Web: HTML, CSS, JavaScript, Sass, TailwindCSS, DaisyUI, Bootstrap, jQuery, React, Ajax, Vue e TypeScript;<br>
+🌟 Desenvolvimento Web: HTML, CSS, JavaScript, Sass, TailwindCSS, DaisyUI, Bootstrap, jQuery, React, Ajax, Vite, PHP e TypeScript;<br>
 🌟 Controle de Versão: Git/Github;<br>
 🌟 Backend: Node.js, PHP, SQL, Next.js;<br>
 🌟 Design e Prototipagem: Figma, AdobeXD e WordPress<br>
