@@ -1,6 +1,6 @@
  <div style="text-align: center;" align="center">
   <img src="/src/olá.gif" alt="Name" height="150px">
-</div>
+
  
  
  💡 Programador Front-End com conceitos Back-End se formando pelo SENAC – Serviço Nacional de Aprendizagem Comercial, em Sistemas para Internet. Sou um profissional criativo com excelente raciocínio lógico e uma capacidade de aprendizagem rápida. Tenho experiência com criação de designs digitais e UI/UX.
@@ -12,6 +12,7 @@
 🌟 Controle de Versão: Git/Github;<br>
 🌟 Backend: Node.js, PHP, SQL, Next.js;<br>
 🌟 Design e Prototipagem: Figma, AdobeXD e WordPress<br>
+</div>
 
 <div align="center">
 <h3 align="center">Entre em contato!</h3>
