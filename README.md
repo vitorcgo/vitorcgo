@@ -1,3 +1,8 @@
+ <div style="text-align: center;" align="center">
+  <img src="/src/olá.gif" alt="Name">
+  </div>
+ 
+ 
  💡 Programador Front-End com conceitos Back-End se formando pelo SENAC – Serviço Nacional de Aprendizagem Comercial, em Sistemas para Internet. Sou um profissional criativo com excelente raciocínio lógico e uma capacidade de aprendizagem rápida. Tenho experiência com criação de designs digitais e UI/UX.
 
  Minhas áreas de atuação incluem desenvolvimento web (front e back-end integrados a APIs), design digital, projetos freelance de design e programação.
@@ -13,7 +18,6 @@
 🌟 Design e Prototipagem: Figma, AdobeXD e WordPress
 
 <div align="center">
-
 <h3 align="center">Entre em contato!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:vitorcgmss@outlook.com)
