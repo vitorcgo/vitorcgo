@@ -1,5 +1,5 @@
  <div style="text-align: center;" align="center">
-  <img src="/src/olá.gif" alt="Name">
+  <img src="/src/olá.gif" alt="Name" height="300px">
   </div>
  
  
