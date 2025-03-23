@@ -1,13 +1,13 @@
  <div style="text-align: center;" align="center">
   <img src="/src/olá.gif" alt="Name" height="150px">
-  </div>
+</div>
  
  
  💡 Programador Front-End com conceitos Back-End se formando pelo SENAC – Serviço Nacional de Aprendizagem Comercial, em Sistemas para Internet. Sou um profissional criativo com excelente raciocínio lógico e uma capacidade de aprendizagem rápida. Tenho experiência com criação de designs digitais e UI/UX.
 
  Minhas áreas de atuação incluem desenvolvimento web (front e back-end integrados a APIs), design digital, projetos freelance de design e programação.
 
- - Habilidades Técnicas:<br>
+💡 Habilidades Técnicas:<br>
 🌟 Desenvolvimento Web: HTML, CSS, JavaScript, Sass, TailwindCSS, DaisyUI, Bootstrap, jQuery, React, Ajax, Vue e TypeScript;<br>
 🌟 Controle de Versão: Git/Github;<br>
 🌟 Backend: Node.js, PHP, SQL, Next.js;<br>
