@@ -1,5 +1,6 @@
  <div style="text-align: center;" align="center">
-  <img src="/src/olá.gif" alt="Name" height="150px">
+  <img src="./src/olá.gif" alt="Name" height="150px">
+  </div>
 
  
  
@@ -12,7 +13,6 @@
 🌟 Controle de Versão: Git/Github;<br>
 🌟 Backend: Node.js, PHP, SQL, Next.js;<br>
 🌟 Design e Prototipagem: Figma, AdobeXD e WordPress<br>
-</div>
 
 <div align="center">
 <h3 align="center">Entre em contato!</h3>
