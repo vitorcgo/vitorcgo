@@ -23,18 +23,6 @@
 </div>
 
 
-<div style="text-align: center;">
-  <h3>* Status</h3>
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorcgo&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&icon_color=FFFFFF&cache_seconds=1800)
-
-[![Linguagens XP+](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorcgo&layout=compact&langs_count=6&show_icons=true&title_color=FF0000&text_color=FFFFFF&bg_color=000000&border_radius=3&border_color=FFFFFF&card_width=290&line_height=20&hide=html,scss,less&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorcgo/vitorcgo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorcgo/vitorcgo/output/github-contribution-grid-snake-dark.svg">
