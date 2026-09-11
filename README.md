@@ -1,40 +1,29 @@
-<div align="center">
+<p align="center">
+  <img src="./src/readme/signature.svg" width="640" alt="Vitor Cavalcante Gomes — Desenvolvedor Full Stack · São Paulo · BR" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05050A,55:0F2A22,100:6EE7B7&height=190&section=header&text=Vitor%20Cavalcante%20Gomes&fontSize=42&fontColor=E8E8ED&fontAlignY=34&desc=Desenvolvedor%20Full%20Stack%20%C2%B7%20S%C3%A3o%20Paulo%20%C2%B7%20BR&descSize=16&descAlignY=54" alt="Vitor Cavalcante Gomes" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=6EE7B7&center=true&vCenter=true&width=720&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Laravel+%C2%B7+Node+%C2%B7+Java+com+Spring;PostgreSQL+%C2%B7+Supabase+%C2%B7+Cloudflare" alt="" />
-
-<br />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-05050A?style=for-the-badge&logo=googlechrome&logoColor=6EE7B7)](https://vitorcg.com.br)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05050A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vitorcgo)
-[![Email](https://img.shields.io/badge/Email-05050A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vittxw@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-05050A?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5511944506528)
-[![Instagram](https://img.shields.io/badge/Instagram-05050A?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/vittxw)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,50:6EE7B7,100:05050A&height=2&section=header" width="100%" alt="" />
-
-</div>
-
-Desenvolvedor full stack. Front-end com React, Next.js e TypeScript, back-end com Laravel, Node e Java com Spring.
+<p align="center">
+  <a href="https://vitorcg.com.br"><img src="./src/readme/link-portfolio.svg" width="112" height="70" alt="Portfólio" /></a>
+  <a href="https://linkedin.com/in/vitorcgo"><img src="./src/readme/link-linkedin.svg" width="112" height="70" alt="LinkedIn" /></a>
+  <a href="mailto:vittxw@gmail.com"><img src="./src/readme/link-email.svg" width="112" height="70" alt="Email" /></a>
+  <a href="https://wa.me/5511944506528"><img src="./src/readme/link-whatsapp.svg" width="112" height="70" alt="WhatsApp" /></a>
+  <a href="https://instagram.com/vittxw"><img src="./src/readme/link-instagram.svg" width="112" height="70" alt="Instagram" /></a>
+</p>
 
 ## Sobre
 
-- **Construo** aplicação web de ponta a ponta: interface, API, banco e deploy.
-- **Front-end** é onde eu sou mais forte: componente tipado, estado previsível e performance como requisito.
-- **Back-end** com API REST, WebSockets, autenticação JWT e PostgreSQL.
-- **Prototipo** em Figma antes de codar, porque interface é decisão de produto.
-- **Infra e segurança** quando o projeto pede: Cloudflare com DNS, WAF e rate limiting.
-- **Estudando** Java com Spring e cursando Tecnólogo em Sistemas para Internet no SENAC até dezembro de 2026.
-- **Aberto** a CLT ou PJ, remoto ou híbrido em São Paulo.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,50:1E1E24,100:05050A&height=2&section=header" width="100%" alt="" />
+- **Da interface ao deploy.** Desenvolvo aplicações web completas: interface, API e banco. Minha maior força é o front-end com React, Next.js e TypeScript — componentes tipados, estado previsível e performance. Prototipo em Figma antes de codar, tratando interface como decisão de produto.
+- **Back-end e infraestrutura.** Laravel, Node e Java com Spring; APIs REST, WebSockets, JWT e PostgreSQL. Quando o projeto pede, cuido de infra e segurança na Cloudflare com DNS, WAF e rate limiting.
+- **Formação e disponibilidade.** Estudo Java com Spring e curso Tecnólogo em Sistemas para Internet no SENAC, até dezembro de 2026. Aberto a CLT ou PJ, remoto ou híbrido em São Paulo.
 
 ## Em produção
 
-<img src="https://aylo.me/icons/icon-192.png" width="88" alt="Logo do aylo.me" />
-
-### aylo.me
+<table>
+  <tr>
+    <td width="80" align="center" valign="middle"><a href="https://aylo.me"><img src="./src/readme/aylo-mark.svg" width="64" height="64" alt="Logo do aylo.me" /></a></td>
+    <td valign="middle"><strong>aylo.me</strong><br /><sub>Projeto em produção · mais de 5.000 usuários</sub><br /><a href="https://aylo.me">Visitar plataforma ↗</a></td>
+  </tr>
+</table>
 
 Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, hoje rodando para mais de 5.000 usuários.
 
@@ -43,48 +32,45 @@ Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, h
 - Monetização com planos VIP e pagamento integrado
 - Infraestrutura na Cloudflare com DNS, WAF e rate limiting, além de proteção contra SQL Injection e CSRF
 
-![React](https://img.shields.io/badge/React-05050A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-05050A?style=flat-square&logo=typescript&logoColor=3178C6)
-![Supabase](https://img.shields.io/badge/Supabase-05050A?style=flat-square&logo=supabase&logoColor=3FCF8E)
-![WebSockets](https://img.shields.io/badge/WebSockets-05050A?style=flat-square&logo=socketdotio&logoColor=E8E8ED)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-05050A?style=flat-square&logo=cloudflare&logoColor=F38020)
-![Privado](https://img.shields.io/badge/reposit%C3%B3rio_privado-05050A?style=flat-square&logo=github&logoColor=6B6B76)
-
-[![Ver ao vivo](https://img.shields.io/badge/aylo.me-Ver_ao_vivo-05050A?style=for-the-badge&logo=cloudflare&logoColor=6EE7B7&labelColor=0F2A22)](https://aylo.me)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,50:1E1E24,100:05050A&height=2&section=header" width="100%" alt="" />
+`React` · `TypeScript` · `Supabase` · `WebSockets` · `Cloudflare`<br />
+<sub>Repositório privado</sub>
 
 ## Stack
 
-<div align="center">
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-05050A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-05050A?style=for-the-badge&logo=nextdotjs&logoColor=E8E8ED)
-![TypeScript](https://img.shields.io/badge/TypeScript-05050A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-05050A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Vue.js](https://img.shields.io/badge/Vue.js-05050A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-**Back-end**
-
-![Node.js](https://img.shields.io/badge/Node.js-05050A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Laravel](https://img.shields.io/badge/Laravel-05050A?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/PHP-05050A?style=for-the-badge&logo=php&logoColor=777BB4)
-![Java](https://img.shields.io/badge/Java-05050A?style=for-the-badge&logo=openjdk&logoColor=E8E8ED)
-![Spring](https://img.shields.io/badge/Spring-05050A?style=for-the-badge&logo=spring&logoColor=6DB33F)
-
-**Dados e infraestrutura**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05050A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Supabase](https://img.shields.io/badge/Supabase-05050A?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
-![MySQL](https://img.shields.io/badge/MySQL-05050A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Python](https://img.shields.io/badge/Python-05050A?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-05050A?style=for-the-badge&logo=cloudflare&logoColor=F38020)
-![Git](https://img.shields.io/badge/Git-05050A?style=for-the-badge&logo=git&logoColor=F05032)
-![Figma](https://img.shields.io/badge/Figma-05050A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-</div>
+<table>
+  <tr>
+    <td width="104" valign="middle"><strong>Front-end</strong></td>
+    <td valign="middle">
+      <img src="./src/readme/react.svg" height="32" alt="React" />
+      <img src="./src/readme/nextjs.svg" height="32" alt="Next.js" />
+      <img src="./src/readme/typescript.svg" height="32" alt="TypeScript" />
+      <img src="./src/readme/tailwind.svg" height="32" alt="Tailwind" />
+      <img src="./src/readme/vue.svg" height="32" alt="Vue.js" />
+    </td>
+  </tr>
+  <tr>
+    <td width="104" valign="middle"><strong>Back-end</strong></td>
+    <td valign="middle">
+      <img src="./src/readme/node.svg" height="32" alt="Node.js" />
+      <img src="./src/readme/laravel.svg" height="32" alt="Laravel" />
+      <img src="./src/readme/php.svg" height="32" alt="PHP" />
+      <img src="./src/readme/java.svg" height="32" alt="Java" />
+      <img src="./src/readme/spring.svg" height="32" alt="Spring" />
+    </td>
+  </tr>
+  <tr>
+    <td width="104" valign="middle"><strong>Dados e infraestrutura</strong></td>
+    <td valign="middle">
+      <img src="./src/readme/postgresql.svg" height="32" alt="PostgreSQL" />
+      <img src="./src/readme/supabase.svg" height="32" alt="Supabase" />
+      <img src="./src/readme/mysql.svg" height="32" alt="MySQL" /><br />
+      <img src="./src/readme/python.svg" height="32" alt="Python" />
+      <img src="./src/readme/cloudflare.svg" height="32" alt="Cloudflare" />
+      <img src="./src/readme/git.svg" height="32" alt="Git" />
+      <img src="./src/readme/figma.svg" height="32" alt="Figma" />
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>Ver o resto do ferramental</b></summary>
@@ -99,8 +85,6 @@ Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, h
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,50:1E1E24,100:05050A&height=2&section=header" width="100%" alt="" />
-
 ## Outros projetos
 
 | Projeto | O que é | Stack |
@@ -113,56 +97,49 @@ Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, h
 
 Nos privados ficam o **CidadeDorme**, jogo multiplayer de papéis ocultos com salas, chat e votação em tempo real, o **IAChatBot-SHUI**, SAC com Google Gemini que classifica sentimento, categoria e urgência em FastAPI, e o **FilaZero**. Cases completos no [portfólio](https://vitorcg.com.br) e o resto do código nos [repositórios](https://github.com/vitorcgo?tab=repositories).
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,50:1E1E24,100:05050A&height=2&section=header" width="100%" alt="" />
-
 ## Estatísticas
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/vitorcgo?style=for-the-badge&logo=github&logoColor=6EE7B7&label=SEGUIDORES&labelColor=05050A&color=0F2A22" alt="Seguidores" />
-<img src="https://img.shields.io/github/last-commit/vitorcgo/vitorcgo?style=for-the-badge&logo=git&logoColor=6EE7B7&label=%C3%9ALTIMO%20PUSH&labelColor=05050A&color=0F2A22" alt="Último push" />
-<img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-41-05050A?style=for-the-badge&logo=github&logoColor=6EE7B7&labelColor=05050A&color=0F2A22" alt="Repositórios" />
+<img src="https://img.shields.io/github/followers/vitorcgo?style=flat-square&logo=github&logoColor=6EE7B7&label=SEGUIDORES&labelColor=05050A&color=0F2A22" alt="Seguidores" />
+<img src="https://img.shields.io/github/last-commit/vitorcgo/vitorcgo?style=flat-square&logo=git&logoColor=6EE7B7&label=%C3%9ALTIMO%20PUSH&labelColor=05050A&color=0F2A22" alt="Último push" />
+<img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-41-05050A?style=flat-square&logo=github&logoColor=6EE7B7&labelColor=05050A&color=0F2A22" alt="Repositórios" />
 
-<img src="https://streak-stats.demolab.com?user=vitorcgo&hide_border=true&background=05050A&stroke=1E1E24&ring=6EE7B7&fire=6EE7B7&currStreakNum=E8E8ED&sideNums=E8E8ED&currStreakLabel=6EE7B7&sideLabels=9A9AA6&dates=6B6B76" width="495" alt="Sequência de contribuições" />
+<img src="https://streak-stats.demolab.com?user=vitorcgo&disable_animations=true&hide_border=true&background=05050A&stroke=1E1E24&ring=6EE7B7&fire=6EE7B7&currStreakNum=E8E8ED&sideNums=E8E8ED&currStreakLabel=6EE7B7&sideLabels=9A9AA6&dates=6B6B76" width="495" alt="Sequência de contribuições" />
 
-<img src="https://raw.githubusercontent.com/vitorcgo/vitorcgo/output/pacman-contribution-graph.svg" width="100%" alt="Pacman comendo as contribuições" />
+<br /><br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./src/readme/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./src/readme/pacman-contribution-graph.svg" />
+  <img src="./src/readme/pacman-contribution-graph.svg" width="100%" alt="Pac-Man comendo as contribuições" />
+</picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,50:1E1E24,100:05050A&height=2&section=header" width="100%" alt="" />
+<h2 align="center">Ouvindo agora</h2>
 
-## Ouvindo agora
-
-<table>
-<tr>
-<td width="130">
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/83/6e/89836e4d-f67d-cc37-8ca9-b0e7c96f10ff/199976295487.png/600x600bf-60.jpg" width="120" alt="Capa do álbum Icon" />
-</td>
-<td>
-
-**butterflies.**
-
-Brent Faiyaz, do álbum *Icon* (2026)
-
-[![Spotify](https://img.shields.io/badge/Ouvir_no_Spotify-05050A?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/search/Brent%20Faiyaz%20butterflies)
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td width="112" align="center" valign="middle">
+      <a href="https://open.spotify.com/search/Brent%20Faiyaz%20butterflies"><img src="https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/83/6e/89836e4d-f67d-cc37-8ca9-b0e7c96f10ff/199976295487.png/600x600bf-60.jpg" width="96" height="96" alt="Capa do álbum Icon" /></a>
+    </td>
+    <td width="280" align="center" valign="middle">
+      <strong>butterflies.</strong><br />
+      Brent Faiyaz · <em>Icon</em> (2026)<br /><br />
+      <a href="https://open.spotify.com/search/Brent%20Faiyaz%20butterflies"><img src="./src/readme/spotify.svg" width="164" height="32" alt="Ouvir no Spotify" /></a>
+    </td>
+  </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05050A,50:1E1E24,100:05050A&height=2&section=header" width="100%" alt="" />
 
 ## Contato
 
 Recrutador com vaga, cliente com projeto ou dev querendo trocar ideia: qualquer um dos caminhos funciona. Respondo em até 24 horas.
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/vittxw@gmail.com-05050A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vittxw@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-05050A?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/5511944506528)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-05050A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vitorcgo)
-[![GitHub](https://img.shields.io/badge/GitHub-05050A?style=for-the-badge&logo=github&logoColor=E8E8ED)](https://github.com/vitorcgo)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,45:0F2A22,100:05050A&height=120&section=footer" width="100%" alt="" />
-
-</div>
+<p align="center">
+  <a href="mailto:vittxw@gmail.com"><img src="./src/readme/link-email.svg" width="112" height="70" alt="Email" /></a>
+  <a href="https://wa.me/5511944506528"><img src="./src/readme/link-whatsapp.svg" width="112" height="70" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/vitorcgo"><img src="./src/readme/link-linkedin.svg" width="112" height="70" alt="LinkedIn" /></a>
+  <a href="https://github.com/vitorcgo"><img src="./src/readme/link-github.svg" width="112" height="70" alt="GitHub" /></a>
+  <br /><sub>vittxw@gmail.com</sub>
+</p>
