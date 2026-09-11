@@ -43,6 +43,29 @@ svg('aylo-mark.svg', 80, 80, 'Logo do aylo.me',
     '<rect width="80" height="80" rx="18" fill="#10181c"/>'
     f'<image href="data:image/png;base64,{logo}" x="13" y="13" width="54" height="54"/>')
 
+svg('aylo-card.svg', 480, 180,
+    'aylo.me — Plataforma de link-in-bio · mais de 5.000 usuários · Em produção · Visitar plataforma', '''
+<defs>
+  <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#172e29"/><stop offset=".55" stop-color="#101d20"/><stop offset="1" stop-color="#0f171c"/></linearGradient>
+  <linearGradient id="edge"><stop stop-color="#6ee7b7" stop-opacity="0"/><stop offset=".5" stop-color="#6ee7b7" stop-opacity=".75"/><stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="479" height="179" rx="18" fill="url(#surface)" stroke="#345148"/>
+<path d="M24 1H456" stroke="url(#edge)"/>
+<path d="M376 0 480 60M410 0 480 40M444 0 480 20" fill="none" stroke="#6ee7b7" stroke-opacity=".06"/>
+<rect x="24" y="28" width="72" height="72" rx="20" fill="#19352d" stroke="#365a4b"/>
+''' + f'<image href="data:image/png;base64,{logo}" x="35" y="39" width="50" height="50"/>'
+    + text('aylo.me', 112, 59, 30, '#f2faf6')
+    + text('Plataforma de link-in-bio', 113, 85, 13, '#a4bcb5')
+    + '<path d="M332 35V93" stroke="#365148"/>'
+    + text('5.000+', 351, 61, 26, '#93f1c8')
+    + text('usuários', 358, 83, 13, '#a4bcb5')
+    + '<path d="M24 116H456" stroke="#2a4139"/>'
+    + '<circle cx="31" cy="148" r="7" fill="#6ee7b7" fill-opacity=".1"/><circle cx="31" cy="148" r="3" fill="#6ee7b7"/>'
+    + text('Em produção', 47, 153, 13, '#bcd6cb')
+    + '<rect x="280" y="132" width="176" height="32" rx="8" fill="#91edc5"/>'
+    + text('Visitar plataforma', 296, 153, 13, '#102b22')
+    + '<path d="M431 143H438V150M430 151 438 143" fill="none" stroke="#102b22" stroke-width="1.5"/>')
+
 
 name_width = sum(glyphs[cmap[ord(c)]].width for c in 'Vitor Cavalcante Gomes') * 28 / units
 group_x = (640 - 88 - name_width) / 2

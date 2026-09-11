@@ -16,31 +16,32 @@
 - **Back-end e infraestrutura.** Laravel, Node e Java com Spring; APIs REST, WebSockets, JWT e PostgreSQL. Quando o projeto pede, cuido de infra e segurança na Cloudflare com DNS, WAF e rate limiting.
 - **Formação e disponibilidade.** Estudo Java com Spring e curso Tecnólogo em Sistemas para Internet no SENAC, até dezembro de 2026. Aberto a CLT ou PJ, remoto ou híbrido em São Paulo.
 
-## Em produção
+<h2 align="center">Em produção</h2>
 
-<table>
-  <tr>
-    <td width="80" align="center" valign="middle"><a href="https://aylo.me"><img src="./src/readme/aylo-mark.svg" width="64" height="64" alt="Logo do aylo.me" /></a></td>
-    <td valign="middle"><strong>aylo.me</strong><br /><sub>Projeto em produção · mais de 5.000 usuários</sub><br /><a href="https://aylo.me">Visitar plataforma ↗</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://aylo.me"><img src="./src/readme/aylo-card.svg" width="480" alt="aylo.me — Plataforma de link-in-bio · mais de 5.000 usuários · Em produção · Visitar plataforma" /></a>
+</p>
 
+<p align="center">
 Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, hoje rodando para mais de 5.000 usuários.
+</p>
 
 - Perfis e murais personalizáveis, autenticação JWT e PostgreSQL no Supabase
 - Integrações sociais, ranking e comunicação em tempo real via WebSockets
 - Monetização com planos VIP e pagamento integrado
 - Infraestrutura na Cloudflare com DNS, WAF e rate limiting, além de proteção contra SQL Injection e CSRF
 
-`React` · `TypeScript` · `Supabase` · `WebSockets` · `Cloudflare`<br />
+<p align="center">
+<code>React</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>WebSockets</code> · <code>Cloudflare</code><br />
 <sub>Repositório privado</sub>
+</p>
 
-## Stack
+<h2 align="center">Stack</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="104" valign="middle"><strong>Front-end</strong></td>
-    <td valign="middle">
+    <td width="104" align="center" valign="middle"><strong>Front-end</strong></td>
+    <td align="center" valign="middle">
       <img src="./src/readme/react.svg" height="32" alt="React" />
       <img src="./src/readme/nextjs.svg" height="32" alt="Next.js" />
       <img src="./src/readme/typescript.svg" height="32" alt="TypeScript" />
@@ -49,8 +50,8 @@ Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, h
     </td>
   </tr>
   <tr>
-    <td width="104" valign="middle"><strong>Back-end</strong></td>
-    <td valign="middle">
+    <td width="104" align="center" valign="middle"><strong>Back-end</strong></td>
+    <td align="center" valign="middle">
       <img src="./src/readme/node.svg" height="32" alt="Node.js" />
       <img src="./src/readme/laravel.svg" height="32" alt="Laravel" />
       <img src="./src/readme/php.svg" height="32" alt="PHP" />
@@ -59,8 +60,8 @@ Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, h
     </td>
   </tr>
   <tr>
-    <td width="104" valign="middle"><strong>Dados e infraestrutura</strong></td>
-    <td valign="middle">
+    <td width="104" align="center" valign="middle"><strong>Dados e infraestrutura</strong></td>
+    <td align="center" valign="middle">
       <img src="./src/readme/postgresql.svg" height="32" alt="PostgreSQL" />
       <img src="./src/readme/supabase.svg" height="32" alt="Supabase" />
       <img src="./src/readme/mysql.svg" height="32" alt="MySQL" /><br />
