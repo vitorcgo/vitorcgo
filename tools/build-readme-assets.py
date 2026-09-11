@@ -44,7 +44,7 @@ svg('aylo-mark.svg', 80, 80, 'Logo do aylo.me',
     f'<image href="data:image/png;base64,{logo}" x="13" y="13" width="54" height="54"/>')
 
 svg('aylo-card.svg', 480, 180,
-    'aylo.me — Plataforma de link-in-bio · mais de 5.000 usuários · Em produção · Visitar plataforma', '''
+    'aylo.me · Plataforma de link-in-bio · mais de 5.000 usuários · Em produção · Visitar plataforma', '''
 <defs>
   <linearGradient id="surface" x2="1" y2="1"><stop stop-color="#172e29"/><stop offset=".55" stop-color="#101d20"/><stop offset="1" stop-color="#0f171c"/></linearGradient>
   <linearGradient id="edge"><stop stop-color="#6ee7b7" stop-opacity="0"/><stop offset=".5" stop-color="#6ee7b7" stop-opacity=".75"/><stop offset="1" stop-color="#6ee7b7" stop-opacity="0"/></linearGradient>
@@ -69,7 +69,7 @@ svg('aylo-card.svg', 480, 180,
 
 name_width = sum(glyphs[cmap[ord(c)]].width for c in 'Vitor Cavalcante Gomes') * 28 / units
 group_x = (640 - 88 - name_width) / 2
-svg('signature.svg', 640, 116, 'Vitor Cavalcante Gomes — Desenvolvedor Full Stack · São Paulo · BR', '''
+svg('signature.svg', 640, 116, 'Vitor Cavalcante Gomes · Desenvolvedor Full Stack · São Paulo · BR', '''
 <defs>
   <linearGradient id="top" x2="1" y2="1"><stop stop-color="#b4ffe2"/><stop offset="1" stop-color="#57cea4"/></linearGradient>
   <linearGradient id="side" x2="0" y2="1"><stop stop-color="#398b71"/><stop offset="1" stop-color="#163c33"/></linearGradient>
@@ -120,12 +120,19 @@ stacks = [
     ('mysql', 'MySQL', '#67b6d5'), ('python', 'Python', '#ffd43b'),
     ('cloudflare', 'Cloudflare', '#f7a652'), ('git', 'Git', '#f7816f'),
     ('figma', 'Figma', '#c4a2ff'),
+    ('websockets', 'WebSockets', '#c1d5e2'),
 ]
 for slug, label, color in stacks:
     width = max(80, round(sum(glyphs[cmap[ord(c)]].width for c in label) * 13 / units) + 40)
     svg(f'{slug}.svg', width, 32, label,
         f'<rect x=".5" y=".5" width="{width-1}" height="31" rx="8" fill="#10181c" stroke="#2b393d"/>'
         f'<circle cx="15" cy="16" r="3" fill="{color}"/>' + text(label, 27, 21, 13, '#e5efed'))
+
+svg('private-repository.svg', 168, 26, 'Repositório privado',
+    '<rect x=".5" y=".5" width="167" height="25" rx="6" fill="#10181c" stroke="#2b393d"/>'
+    '<g fill="none" stroke="#9eb4ae" stroke-width="1.2"><rect x="12" y="11" width="9" height="8" rx="1.5"/>'
+    '<path d="M14 11V8a2.5 2.5 0 0 1 5 0v3"/><path d="M16.5 14V16"/></g>'
+    + text('Repositório privado', 30, 17, 12, '#acbcb7'))
 
 svg('spotify.svg', 164, 32, 'Ouvir no Spotify',
     '<rect x=".5" y=".5" width="163" height="31" rx="16" fill="#10181c" stroke="#2b393d"/>'

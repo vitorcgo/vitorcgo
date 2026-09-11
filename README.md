@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/readme/signature.svg" width="640" alt="Vitor Cavalcante Gomes — Desenvolvedor Full Stack · São Paulo · BR" />
+  <img src="./src/readme/signature.svg" width="640" alt="Vitor Cavalcante Gomes · Desenvolvedor Full Stack · São Paulo · BR" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ## Sobre
 
-- **Da interface ao deploy.** Desenvolvo aplicações web completas: interface, API e banco. Minha maior força é o front-end com React, Next.js e TypeScript — componentes tipados, estado previsível e performance. Prototipo em Figma antes de codar, tratando interface como decisão de produto.
+- **Da interface ao deploy.** Desenvolvo aplicações web completas: interface, API e banco. Minha maior força é o front-end com React, Next.js e TypeScript, com componentes tipados, estado previsível e performance. Prototipo em Figma antes de codar, tratando interface como decisão de produto.
 - **Back-end e infraestrutura.** Laravel, Node e Java com Spring; APIs REST, WebSockets, JWT e PostgreSQL. Quando o projeto pede, cuido de infra e segurança na Cloudflare com DNS, WAF e rate limiting.
 - **Formação e disponibilidade.** Estudo Java com Spring e curso Tecnólogo em Sistemas para Internet no SENAC, até dezembro de 2026. Aberto a CLT ou PJ, remoto ou híbrido em São Paulo.
 
-<h2 align="center">Em produção</h2>
+<br />
 
 <p align="center">
-  <a href="https://aylo.me"><img src="./src/readme/aylo-card.svg" width="480" alt="aylo.me — Plataforma de link-in-bio · mais de 5.000 usuários · Em produção · Visitar plataforma" /></a>
+  <a href="https://aylo.me"><img src="./src/readme/aylo-card.svg" width="480" alt="aylo.me · Plataforma de link-in-bio · mais de 5.000 usuários · Em produção · Visitar plataforma" /></a>
 </p>
 
 <p align="center">
@@ -32,11 +32,17 @@ Plataforma de link-in-bio que construí sozinho, do primeiro commit ao deploy, h
 - Infraestrutura na Cloudflare com DNS, WAF e rate limiting, além de proteção contra SQL Injection e CSRF
 
 <p align="center">
-<code>React</code> · <code>TypeScript</code> · <code>Supabase</code> · <code>WebSockets</code> · <code>Cloudflare</code><br />
-<sub>Repositório privado</sub>
+  <img src="./src/readme/react.svg" height="32" alt="React" />
+  <img src="./src/readme/typescript.svg" height="32" alt="TypeScript" />
+  <img src="./src/readme/supabase.svg" height="32" alt="Supabase" />
+  <img src="./src/readme/websockets.svg" height="32" alt="WebSockets" />
+  <img src="./src/readme/cloudflare.svg" height="32" alt="Cloudflare" />
+</p>
+<p align="center">
+  <img src="./src/readme/private-repository.svg" width="168" height="26" alt="Repositório privado" />
 </p>
 
-<h2 align="center">Stack</h2>
+<h2 align="center">Tecnologias que uso</h2>
 
 <table align="center">
   <tr>
