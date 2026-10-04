@@ -1,4 +1,4 @@
-name: Atualizar Pac-Man
+name: Atualizar contribuições
 
 on:
   schedule:
@@ -9,6 +9,7 @@ on:
     paths:
       - README.md
       - .github/workflows/main.yml
+      - .github/scripts/ascii_contributions.py
 
 concurrency:
   group: profile-pacman
@@ -26,6 +27,9 @@ jobs:
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           ref: ${{ github.event.repository.default_branch }}
+
+      - name: Desenhar as contribuições em ASCII
+        run: python3 .github/scripts/ascii_contributions.py ${{ github.repository_owner }} src/ascii/contributions.svg
 
       - name: Gerar Pac-Man nos temas claro e escuro
         uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
@@ -45,10 +49,10 @@ jobs:
           cp dist/pacman-contribution-graph-dark.svg src/readme/pacman-contribution-graph-dark.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/readme/pacman-contribution-graph.svg src/readme/pacman-contribution-graph-dark.svg
+          git add src/readme/pacman-contribution-graph.svg src/readme/pacman-contribution-graph-dark.svg src/ascii/contributions.svg
           if git diff --cached --quiet; then
             exit 0
           fi
-          git commit -m "chore: atualizar contribuições do Pac-Man"
+          git commit -m "chore: atualizar gráficos de contribuições"
           git pull --rebase
           git push
