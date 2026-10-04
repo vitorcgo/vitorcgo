@@ -12,7 +12,7 @@ on:
       - .github/scripts/ascii_contributions.py
 
 concurrency:
-  group: profile-pacman
+  group: profile-contributions
   cancel-in-progress: false
 
 jobs:
@@ -31,25 +31,11 @@ jobs:
       - name: Desenhar as contribuições em ASCII
         run: python3 .github/scripts/ascii_contributions.py ${{ github.repository_owner }} src/ascii/contributions.svg
 
-      - name: Gerar Pac-Man nos temas claro e escuro
-        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          games: pacman
-
-      - name: Verificar os arquivos gerados
+      - name: Publicar o gráfico atualizado
         run: |
-          test -s dist/pacman-contribution-graph.svg
-          test -s dist/pacman-contribution-graph-dark.svg
-
-      - name: Atualizar as animações no README
-        run: |
-          cp dist/pacman-contribution-graph.svg src/readme/pacman-contribution-graph.svg
-          cp dist/pacman-contribution-graph-dark.svg src/readme/pacman-contribution-graph-dark.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/readme/pacman-contribution-graph.svg src/readme/pacman-contribution-graph-dark.svg src/ascii/contributions.svg
+          git add src/ascii/contributions.svg
           if git diff --cached --quiet; then
             exit 0
           fi
