@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://vitorcg.com.br"><img src="./src/ascii/hero.svg" width="100%" alt="vitor · desenvolvedor full stack · faço o produto inteiro: interface, api, banco e deploy. React, Next.js e TypeScript no front; Laravel, Node e Spring no back. Aberto a CLT ou PJ, remoto ou híbrido em São Paulo." /></a>
+<a href="https://vitorcg.com.br"><img src="./src/ascii/hero.svg?v=2" width="100%" alt="vitor · desenvolvedor full stack · faço o produto inteiro: interface, api, banco e deploy. React, Next.js e TypeScript no front; Laravel, Node e Spring no back. Aberto a CLT ou PJ, remoto ou híbrido em São Paulo." /></a>
 <a href="https://vitorcg.com.br"><img src="./src/ascii/btn-portfolio.svg" width="156" height="44" alt="Portfólio" /></a>
 <a href="https://linkedin.com/in/vitorcgo"><img src="./src/ascii/btn-linkedin.svg" width="156" height="44" alt="LinkedIn" /></a>
 <a href="mailto:vittxw@gmail.com"><img src="./src/ascii/btn-email.svg" width="156" height="44" alt="Email" /></a>
@@ -13,5 +13,5 @@
 <img src="./src/ascii/stack.svg" width="100%" alt="React, Next.js, TypeScript, Tailwind CSS, Vue.js, Three.js, Node.js, Laravel, PHP, Java, Spring, Rust, Tauri, Python, PostgreSQL, Supabase, MySQL, Docker, Cloudflare, Git, Figma" />
 <img src="./src/ascii/contributions.svg" width="100%" alt="Contribuições do último ano, seguidores, repositórios e sequência de dias, desenhados em ASCII" />
 <a href="https://open.spotify.com/search/Brent%20Faiyaz%20butterflies"><img src="./src/ascii/ouvindo.svg" width="100%" alt="Ouvindo agora: butterflies. — Brent Faiyaz, álbum Icon (2026). Ouvir no Spotify" /></a>
-<a href="https://vitorcg.com.br"><img src="./src/ascii/contato.svg" width="100%" alt="bora conversar? vaga, projeto ou só trocar ideia — vittxw@gmail.com · vitorcg.com.br" /></a>
+<a href="https://vitorcg.com.br"><img src="./src/ascii/contato.svg?v=2" width="100%" alt="bora conversar? vaga, projeto ou só trocar ideia — vittxw@gmail.com · vitorcg.com.br" /></a>
 </p>
